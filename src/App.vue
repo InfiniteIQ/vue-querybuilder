@@ -12,7 +12,7 @@
           </vue-query-builder>
         </div>
       </div>
-      <p>Generated output:</p>
+      <p>Json Generated output:</p>
       <pre>{{ JSON.stringify(this.query, null, 2) }}</pre>
     </div>
   </div>

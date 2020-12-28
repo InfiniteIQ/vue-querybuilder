@@ -1,7 +1,7 @@
 {
-  "name": "vue-query-builder",
+  "name": "vue-querybuilder",
   "version": "1.0.0",
-  "description": "core: https://querybuilder.js.org/\nhome: https://dabernathy89.github.io/vue-query-builder",
+  "description": "",
   "main": "src/main.js",
   "private": true,
   "scripts": {
@@ -13,6 +13,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@vue/babel-preset-app": "4.5.9",
     "node-sass": "4.9.0",
     "sass-loader": "7.0.3",
     "vue": "^2.5.2",
@@ -79,7 +80,5 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "keywords": [
-    "querybuilder"
-  ]
+  "keywords": []
 }
