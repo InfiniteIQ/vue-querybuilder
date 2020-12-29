@@ -1,6 +1,6 @@
-# test-project
+# Jquery Builder - Vue Query Builder
 
-> A Vue.js project
+> A Forked Vue Query Builder Demo
 
 ## Build Setup
 
@@ -33,3 +33,6 @@ https://querybuilder.js.org/demo.html
 ### Forked from
 
 https://github.com/dabernathy89/vue-query-builder
+
+> Thanks for chedking me out!
+> Gabriel.
