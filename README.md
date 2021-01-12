@@ -1,6 +1,6 @@
 # Jquery Builder - Vue Query Builder
 
-> A Forked Vue Query Builder Demo
+> Gabriel Forked from Vue Query Builder Demo
 
 ## Build Setup
 
